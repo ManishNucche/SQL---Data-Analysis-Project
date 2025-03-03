@@ -1,0 +1,101 @@
+Customer_ID,Name,Age,Gender,Location,Signup_Date,Total_Spend
+1,John Li,52,Male,Westhaven,2022-08-07,4565.05
+2,Edwin Turner DVM,53,Other,Masonfurt,2023-03-14,709.27
+3,Jonathan Pham,34,Other,Kathleenchester,2022-04-18,4871.85
+4,Courtney Rogers,42,Other,Philipmouth,2024-08-01,4637.39
+5,Edward Lewis,25,Female,South Amanda,2024-08-17,169.68
+6,Jennifer Kirk,43,Male,West Jessica,2022-09-14,4633.42
+7,Andrew Carr,26,Female,Masonview,2023-12-28,1346.8
+8,Mike Knox,60,Female,Ronaldmouth,2023-10-27,2990.56
+9,Katie Hicks,52,Male,New Michael,2022-11-29,3450.6
+10,Michael Ryan,34,Other,West Sharonland,2022-10-16,3167.62
+11,Joanna Rodriguez,60,Male,Adamchester,2024-11-02,1074.1
+12,Ryan Ramirez,28,Female,New Nicholas,2023-04-28,1877.07
+13,Aaron Hill,53,Other,Everettborough,2024-09-11,2648.53
+14,Brandi Williams,21,Other,New Crystalside,2023-03-23,3028.49
+15,Kimberly Conner,61,Male,Lake Danielville,2022-10-19,1499.12
+16,Michael Greene,23,Male,Port Melissastad,2022-04-23,4750.3
+17,Anthony Kerr,35,Male,Waltonside,2022-11-01,4662.39
+18,Jodi Ross,46,Male,Underwoodbury,2022-04-11,4695.48
+19,Christina Smith,49,Female,Lake Rebecca,2024-02-29,4823.57
+20,Kenneth Atkins,46,Female,West Jeffreyville,2024-03-23,1693.27
+21,Scott Sampson,20,Other,Brooksmouth,2023-08-09,3311.07
+22,Amy Smith,63,Male,Amberborough,2023-07-29,510.61
+23,Shawn Ramirez,35,Female,Summersmouth,2024-11-08,4141.05
+24,Theodore Bradshaw,26,Female,Port Christopherberg,2023-08-10,2350.94
+25,Peter Rodriguez,51,Male,West Katherine,2024-08-22,1650.63
+26,Jesus Thompson,33,Male,Laurieshire,2023-04-19,3886.72
+27,Brandon Zamora,37,Female,Deborahshire,2023-01-04,718.16
+28,Helen Harrington,48,Male,New Lisa,2023-08-09,3870.65
+29,Sean Smith,55,Male,New Alan,2024-04-24,1103.5
+30,Stephanie Coleman,38,Female,Rachelton,2024-10-06,3806.32
+31,Philip Sanchez,54,Other,Hernandezchester,2023-09-05,1026.22
+32,Susan Jackson,44,Other,Port Eric,2023-01-10,1207.33
+33,Jacob Diaz,28,Female,Curtisville,2023-09-27,820.11
+34,Lauren Cooper,64,Other,Danielsport,2024-10-26,2018.5
+35,Bryan Thompson,44,Male,Greenmouth,2025-01-12,3230.44
+36,Megan Long,62,Other,Michelleburgh,2023-09-14,4732.79
+37,Amy Terrell,61,Male,Lake Jeffreyshire,2022-06-08,550.99
+38,Scott Lambert,20,Female,Catherineville,2024-03-03,2758.9
+39,Jordan Joseph,63,Female,Heathertown,2025-02-06,4220.17
+40,Cynthia Santos,63,Other,Erikamouth,2024-02-01,1510.22
+41,Robert Wall,28,Male,Pittmanhaven,2025-02-13,4771.8
+42,Kenneth Jones,49,Male,South Crystalshire,2024-01-13,4875.5
+43,Deborah Landry,31,Other,Torresville,2023-02-05,2643.25
+44,Lacey Watkins,47,Female,Richardberg,2023-02-03,686.62
+45,Richard Thomas DVM,48,Male,Whiteside,2024-08-03,1110.0
+46,Jessica Wheeler,25,Other,East Anna,2023-08-10,1907.55
+47,John Martinez,30,Male,Cruzberg,2024-03-04,1253.95
+48,Sarah Wright,52,Male,Brianmouth,2023-06-07,2824.89
+49,Katherine Harris,40,Other,Johnville,2022-10-28,3110.58
+50,Shannon Calhoun,29,Female,North Steven,2024-09-05,4135.98
+51,Leslie Oliver,38,Male,East Tamara,2024-07-13,4730.29
+52,Leslie Nash,33,Female,Davistown,2024-08-24,4956.68
+53,Susan Williamson,55,Male,North Christophermouth,2025-01-31,156.02
+54,Corey Leonard,23,Other,Hatfieldfurt,2024-10-01,3531.7
+55,Erika Wilson,56,Female,New Huntershire,2022-06-23,2593.22
+56,Shaun Mora,37,Female,Port Chadport,2024-03-20,2930.41
+57,George May,64,Other,Jeffreyborough,2023-11-28,4281.83
+58,Alexander Bowen,23,Female,Lopezstad,2024-04-10,4362.88
+59,Catherine Henderson,18,Male,Mcdonaldshire,2023-10-09,1385.86
+60,James Stewart,20,Other,Georgeland,2022-07-14,2606.74
+61,Justin Yates,21,Female,West Isaiah,2024-11-06,971.6
+62,Joshua Anderson,58,Other,South Christopher,2024-11-15,4111.46
+63,Kelly Dodson,26,Female,Lake Sara,2022-06-18,4601.82
+64,Wayne Tate,58,Other,East Steven,2023-02-24,911.9
+65,Gina Parks,24,Male,Lake Dana,2023-07-04,1106.55
+66,Megan Johnson,49,Male,East Lindseymouth,2023-01-27,2779.04
+67,Cody Keller,21,Other,Port Amandashire,2022-05-23,3898.5
+68,Heather Ortega,48,Other,Melindashire,2022-04-30,4320.63
+69,Jasmine Reed,39,Other,Leeborough,2023-05-15,3427.51
+70,James Waller,47,Female,Port Kurtton,2023-12-15,1553.93
+71,Kathleen Mills,45,Other,Joelfurt,2023-04-30,941.44
+72,Marcus Schaefer,34,Male,West Charles,2022-11-29,2735.0
+73,Megan Drake,28,Male,Brownfort,2023-09-28,4654.06
+74,Christopher Mcdaniel,60,Female,Ericview,2024-06-27,219.49
+75,Maria George,37,Male,New Crystal,2024-02-15,1439.46
+76,Bruce Taylor,41,Other,New Lynnmouth,2023-12-22,3629.65
+77,Amber Vega,48,Female,Burnsview,2022-06-04,1436.67
+78,David Flowers,63,Other,South Maria,2024-08-26,3731.39
+79,Anna Christian,59,Other,Wilkersonside,2023-03-24,2457.91
+80,Paul Brown,46,Male,Coxville,2023-08-09,1594.3
+81,Paula Tyler,47,Female,Lake Victoriaborough,2024-09-15,2774.55
+82,James Williams,47,Female,North Laurieview,2022-08-10,4548.87
+83,Kyle Mendez,62,Other,East Kimfort,2024-09-02,4291.81
+84,Ashley Stevens,57,Male,Lake Brian,2024-12-21,347.06
+85,Kevin Paul,49,Male,North Barbara,2023-06-29,4642.55
+86,Michael Rodriguez,55,Other,Michealside,2022-08-19,4409.32
+87,Brittany Shaw,62,Other,West Helenport,2024-01-30,604.8
+88,Katrina Lewis,48,Male,New Tammy,2023-01-11,2157.3
+89,Morgan Sullivan,34,Other,Reyesport,2024-03-23,3056.89
+90,Sharon Moore,57,Male,Lake Gregchester,2025-02-20,2792.41
+91,Rachel Luna,41,Male,East Linda,2024-11-29,116.83
+92,Christopher Burns,65,Male,South Wanda,2024-01-30,2820.03
+93,Katie Mcgee,60,Female,Staceymouth,2022-10-10,1138.84
+94,Alexandra Walters,43,Other,Adamsmouth,2023-05-16,158.03
+95,Janice Lee,31,Other,Meganburgh,2023-06-03,809.83
+96,Edwin Wagner,26,Other,Dorseyview,2024-08-05,3824.53
+97,Andrew Garza,56,Other,North Stevenville,2023-04-14,675.74
+98,Michelle Gross,53,Male,Nicolemouth,2025-02-12,958.44
+99,Jessica Reyes,44,Male,Luisland,2024-03-01,584.34
+100,Shawn Nunez,63,Female,South Sarah,2023-12-25,3297.86
